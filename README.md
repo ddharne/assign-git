@@ -1,4 +1,4 @@
 # assign-git
 Dhananjay Shivkumar Dharne
 first change
-This is a change on testbranch2
+The conflict on the branch has been resolved manually
